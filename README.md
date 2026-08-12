@@ -21,3 +21,5 @@ The fundamental difference between physical Hardware and software instructions:
  3. Motherboard
  4. Storage Drive
  5. Hard disk drive
+
+ ![My Process Flowchart](flow_chart.png)
